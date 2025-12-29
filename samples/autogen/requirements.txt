@@ -1,0 +1,7 @@
+# AutoGen 0.2.x (기존 버전)
+# pyautogen>=0.2.0
+
+# 또는 AutoGen 0.4+ (새 아키텍처)
+# autogen-agentchat>=0.4.0
+
+# 이 샘플은 철학 데모 목적으로 외부 의존성 없이 실행됩니다
