@@ -1,6 +1,8 @@
-# 에이전트 프레임워크 철학 비교 샘플
+# 흐름 → 협업 → 시스템 → 관찰: 에이전트가 시스템이 되기까지
 
-> **"왜 LangGraph가 나왔고, 왜 AutoGen이 등장했고, 왜 AgentScope가 필요했고, 왜 이제는 관찰이 필연이 되었는가?"**
+> **LangGraph, AutoGen, AgentScope, OpenTelemetry로 보는 에이전트 프레임워크의 철학적 진화**
+
+📖 **[Medium 글 보기](https://medium.com/@sunghyunroh/%ED%9D%90%EB%A6%84-%ED%98%91%EC%97%85-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B4%80%EC%B0%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4-%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80-d8bebd24fbd6)**
 
 이 저장소는 에이전트 프레임워크의 **철학적 진화**를 보여주기 위한 샘플 프로젝트입니다.
 기능 비교가 아닌, **사고 방식의 진화**를 직관적으로 느낄 수 있도록 구성했습니다.
